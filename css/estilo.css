@@ -68,3 +68,38 @@ background: #de003e;
 cursor: text;
 
 }
+
+/*layout de tres colunas*/
+
+#conteudo{
+    background:#f5f5f5;
+    margin-top: 60px;
+}
+#primario{
+    width: 270px;
+    float: left;
+    background: blue;
+    margin: 0 0 20px 195px;
+
+}
+
+#secundario{
+    width: 270px;
+    float: left;
+    margin: 0 0 20px 15px;
+    background: green;
+}
+
+#lateral{
+    width: 180px;
+    float: left;
+    background: yellow;
+    margin: 0 0 20px -750px;
+}
+
+#rodape{
+background: #294c71;
+padding: 20px;
+color: #f5f5f5;
+
+}
